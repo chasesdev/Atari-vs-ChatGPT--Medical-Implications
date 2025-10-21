@@ -1,6 +1,5 @@
-# Atari-vs-ChatGPT--Medical-Implications
 
-# 🧠 Atari vs ChatGPT — Medical Implications
+# 🕹️🎮Atari vs 🌌🧠ChatGPT — Medical Implications
 
 **How a 1980s Atari chess engine exposes the limits of LLM reasoning — and what that means for medical AI systems like the Vantage Imaging System (VIS).**
 
